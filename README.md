@@ -119,9 +119,9 @@ and is knowledgeable enough now to decide which electives to take.
 
 ---
 
-Function | In Progress| Complete
-:------------ | :-------------| :-------------
-substr | :black_square_button: |  :white_check_mark:
+In Progress | Complete
+:-------------| :-------------
+:black_square_button: |  :white_check_mark:
 
 ---
 
