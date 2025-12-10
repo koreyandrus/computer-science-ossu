@@ -75,7 +75,8 @@ c = "musketeers"
 #     run run run run run
 
 # your code here
-
+verb = input("Please enter a verb: ")
+print(f'I can {verb} better than you.')
 
 
 #########################################
