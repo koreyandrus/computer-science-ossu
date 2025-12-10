@@ -3,3 +3,6 @@
 *.swo
 .direnv/
 .envrc
+*.mp4
+venv/
+classes/**/*.pdf
